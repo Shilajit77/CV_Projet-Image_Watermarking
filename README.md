@@ -5,10 +5,9 @@
 
 This is a Computer Vision project focused on exploring different ways of protecting image copyright through image watermarking and identifying potential flaws in the process. The project aims to implement watermarking techniques, such as visible and invisible watermarking through logos and text, and evaluate their effectiveness in protecting copyright. It also explores potential flaws or weaknesses in the watermarking process and develops strategies to strengthen image protection. Additionally, the project uses evaluation measures to check watermarking techniques used and provides results accordingly for comparison purposes.<br>
 
-#### Name of Students:
-##### 1. Vandita Agarwal(M20MA208)
-##### 2. Shilajit Banerjee(M22CS062)
-##### 3. Dattatreyo Roy(M22CS060)
+#### Name of Student:
+#####  Shilajit Banerjee(M22CS062)
+
 
 This is the Computer Vision project 1.
 
